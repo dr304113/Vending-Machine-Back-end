@@ -10,7 +10,7 @@ A program used to simulate the back-end process of a vending machine.
 
 Technologies used:
 
-[![Tech Stack](https://skills.thijs.gg/icons?i=java,spring,git,maven)]
+(https://skills.thijs.gg/icons?i=java,spring,git,maven)
 
 <img src="MainImage.png">
 
